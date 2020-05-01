@@ -1,2 +1,1 @@
-# PyHelp.io
-PyHelp project
+# This is website for my projects
