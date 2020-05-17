@@ -1,6 +1,6 @@
 <head>
 <meta charset="UTF-8">
-<title> My First Webpage </title>
+<title> Life is short, you need python </title>
 </head>
 
 <body>
